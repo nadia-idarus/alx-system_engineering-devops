@@ -1,4 +1,5 @@
 #!/bin/bash
-cp -nu *.html 
+cp -rua *.html ../
+
 
 
